@@ -6,6 +6,7 @@ import org.junit.runners.Suite;
         MathLibraryTest.class,
         MathLibraryTest2.class
 })
+
 public class MathLibraryTestSuite {
 
 }
