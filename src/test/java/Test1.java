@@ -12,6 +12,5 @@ public class Test1 {
         Calculator calc = new Calculator();
         assertEquals(4, calc.add(2, 2));
     }
-
 }
 
